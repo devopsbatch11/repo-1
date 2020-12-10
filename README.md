@@ -1,2 +1,2 @@
 # repo-1
-sample repo
+sample repo for code
